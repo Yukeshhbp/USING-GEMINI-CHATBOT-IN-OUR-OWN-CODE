@@ -1,4 +1,4 @@
-**LangChain Chatbot with Gemini API** 🤖✨
+# **LangChain Chatbot with Gemini API** 🤖✨
 
 This repository demonstrates how to build a simple chatbot using LangChain and the Gemini API. The project integrates LangChain's powerful tools for natural language processing with Gemini's API for conversational AI, enabling seamless user interaction and dynamic responses based on context. 💬🤝
 
