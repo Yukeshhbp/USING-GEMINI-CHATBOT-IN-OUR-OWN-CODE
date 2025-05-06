@@ -15,6 +15,7 @@ This repository demonstrates how to build a simple chatbot using LangChain and t
 ➤ Extensible Framework: Built with flexibility in mind, making it easy to add new models or adjust the conversation flow to suit your needs. 🔧
 
 **Prerequisites** ⚙️
+
 Before running the code, make sure you have the following dependencies installed:
 
 ➛ Python 3.x 🐍
@@ -26,6 +27,7 @@ Before running the code, make sure you have the following dependencies installed
 ➛ Optional: API keys for other LLM models like ChatGPT or HuggingFace 🌍
 
 **How It Works** 🛠️
+
 ➤ LangChain: LangChain is used to process and manage the conversation flow, ensuring that user inputs are handled effectively. 🧩
 
 ➤ Gemini API: The chatbot uses Gemini's API to create intelligent, context-based responses during the conversation. 🌟
@@ -33,6 +35,7 @@ Before running the code, make sure you have the following dependencies installed
 ➤ Conversation Flow: The conversation is managed through prompts generated dynamically by LangChain, ensuring relevant responses based on the user's inputs. 💡
 
 **Customization** 🎨
+
 ➨ Change LLM Models: Easily swap between different LLMs (Gemini, ChatGPT, HuggingFace) by updating the configuration in the code. 🔄
 
 ➨ Add More Prompts: Customize or add new prompt generation logic to meet your project’s needs. ✏️
